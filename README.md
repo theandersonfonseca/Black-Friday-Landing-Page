@@ -1,6 +1,4 @@
-# Landing-Page-Black-Friday
-
-#
+# Black-Friday-Landing-Page
 
 ## 📷 Demonstração
 
